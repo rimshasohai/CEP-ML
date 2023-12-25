@@ -1,2 +1,2 @@
 # CEP-ML
-MACHINE LEARNING ON GRADES DATASET
+Accolade worthy project "Predicting CGPA" widely acclaimed within the computer system department.
